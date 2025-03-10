@@ -4,7 +4,7 @@ import 'dynamsoft-barcode-reader';
 
 
 // Configures the paths where the .wasm files and other necessary resources for modules are located.
-CoreModule.engineResourcePaths.rootDirectory = 'assets/distributables';
+CoreModule.engineResourcePaths.rootDirectory = 'https://angular-zeta-gray.vercel.app/assets/distributables';
 
 // CoreModule.engineResourcePaths.rootDirectory = 'https://cdn.jsdelivr.net/npm/'; 
 
